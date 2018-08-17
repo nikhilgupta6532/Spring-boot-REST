@@ -19,6 +19,14 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-couchbase -->
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-couchbase</artifactId>
+			<version>3.0.9.RELEASE</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<properties>
